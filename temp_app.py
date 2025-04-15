@@ -25,10 +25,10 @@ from folium import Icon
 from streamlit_folium import st_folium
 from textblob import TextBlob
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # Load environment variables from a .env file
-load_dotenv()
+#load_dotenv()
 #opencage_api_key = os.getenv('OPENCAGE_API_KEY')
 #gemini_api_key = os.getenv('GEMINI_API_KEY')
 #foursquare_api_keyyy = os.getenv('FOURSQUARE_API_KEY')

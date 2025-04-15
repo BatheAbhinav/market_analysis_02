@@ -708,9 +708,6 @@ if uploaded_file is not None:
                 sum(subjectivities) / len(subjectivities) if subjectivities else 0.0
             )
     
-
-    opencage_api_key = "7a5e2c08b15848f4ab7abca083e9b732"
-    gemini_api_key = "AIzaSyBovJ8q8zWYX-tu1aCBXFsea-CtSa-Ra4M"
     analyzer = EnhancedMarketAnalyzer(opencage_api_key, gemini_api_key)
     location = "belgaum, India"
     result = analyzer.analyze_opportunity(location)

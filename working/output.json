@@ -1,0 +1,457 @@
+
+{
+  "businesses": [
+    {
+      "timestamp": "00:00",
+      "name": "Water Zone RO Purifiers",
+      "category": "Water Purifier",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Water Purifiers Sales & Service",
+        "Commercial/Domestic RO Pix",
+        "Wide Variety of Water Purifiers"
+      ]
+    },
+    {
+      "timestamp": "00:02",
+      "name": "Prasad Homoeo Pharmacy",
+      "category": "Pharmacy",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Homoeo Pharmacy",
+        "Allopathic medicines"
+      ]
+    },
+    {
+      "timestamp": "00:07",
+      "name": "Shree Bhakti Mahila Co-op. Credit Society Ltd.",
+      "category": "Credit Society",
+      "address": "H.No.729, Roming Kund Galli, Belgaum, Karnataka",
+      "features": [
+        "Credit Society",
+        "Loan Facilities"
+      ]
+    },
+    {
+      "timestamp": "00:08",
+      "name": "Helmet & Accessories Shop",
+      "category": "Accessories",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Helmet Collection"
+      ]
+    },
+    {
+      "timestamp": "00:11",
+      "name": "Look'z Optics",
+      "category": "Optician",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Latest Frames & Lenses",
+        "Contact Lens Available Here"
+      ]
+    },
+{
+      "timestamp": "00:19",
+      "name": "Mahesh Electric & Store",
+      "category": "Electronics",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Electric Appliances Sales & Service"
+      ]
+    },
+    {
+      "timestamp": "00:24",
+      "name": "Asian Paints",
+      "category": "Paint Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Hardware/Paints/Construction materials"
+      ]
+    },
+    {
+      "timestamp": "00:26",
+      "name": "HDB Financial Services",
+      "category": "Financial Services",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Gold Loan"
+      ]
+    },
+    {
+      "timestamp": "00:29",
+      "name": "Look'z",
+      "category": "Beauty Salon",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Hair & Nail Services"
+      ]
+    },
+    {
+      "timestamp": "00:31",
+      "name": "Bharat Laundry & Dry Cleaners",
+      "category": "Laundry Services",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Dry Cleaning"
+      ]
+    },
+        {
+      "timestamp": "00:34",
+      "name": "I-ongo",
+      "category": "General Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+        {
+      "timestamp": "00:35",
+      "name": "Re-derm",
+      "category": "Skin & Nail care",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Skin & Nail Services"
+      ]
+    },
+    {
+      "timestamp": "00:36",
+      "name": "Sagar Ceramics",
+      "category": "Plumbing & Sanitaryware",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Tiles, Plumbing, Sanitaryware"
+      ]
+    },
+   {
+      "timestamp": "01:00",
+      "name": "Hotel Athi",
+      "category": "Restaurant",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Veg & Non-Veg Restaurant"
+      ]
+    },
+{
+      "timestamp": "01:02",
+      "name": "Future Electrical",
+      "category": "Electrical Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Electrical Appliances Sales"
+      ]
+    },
+{
+      "timestamp": "01:03",
+      "name": "Poonam Plaza",
+      "category": "Furniture Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Furniture Sales",
+        "Poonam Furniture"
+      ]
+    },
+{
+      "timestamp": "01:11",
+      "name": "Sai Tea Stall",
+      "category": "Tea Stall",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+    {
+      "timestamp": "01:13",
+      "name": "V Decor",
+      "category": "Home Decor Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Curtains/Drapes",
+        "Home Decor Items"
+      ]
+    },
+     {
+      "timestamp": "01:15",
+      "name": "Mafia Boutique",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Mens & Womens Wear"
+      ]
+    },
+     {
+      "timestamp": "01:17",
+      "name": "Care Dental Clinic",
+      "category": "Dental Clinic",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+       {
+      "timestamp": "01:19",
+      "name": "Haier, Samsung, Sony",
+      "category": "Electronics",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Electronics Sales"
+      ]
+    },
+    {
+      "timestamp": "01:20",
+      "name": "Shivaya's Kitchen",
+      "category": "Restaurant",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+{
+      "timestamp": "01:21",
+      "name": "Shivsudha Construction",
+      "category": "Construction Company",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+    {
+      "timestamp": "01:22",
+      "name": "Nettic",
+      "category": "Pest Control",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Pest Control Services"
+      ]
+    },
+    {
+      "timestamp": "01:25",
+      "name": "Josephs Children's Clinic",
+      "category": "Clinic",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+     {
+      "timestamp": "01:27",
+      "name": "Balaji Enterprises",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+      ]
+    },
+{
+      "timestamp": "01:30",
+      "name": "Digital Banners & Thermal Cutting",
+      "category": "Printing",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+    {
+      "timestamp": "01:32",
+      "name": "Lakshmicones Music House",
+      "category": "Music Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+     {
+      "timestamp": "01:35",
+      "name": "Raw1 Outfit",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+    {
+      "timestamp": "01:40",
+      "name": "BATA",
+      "category": "Shoe Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Shoe Store"
+      ]
+    },
+    {
+      "timestamp": "01:44",
+      "name": "More Lighting Palace",
+      "category": "Lighting Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+     {
+      "timestamp": "01:45",
+      "name": "Rubber Stamps",
+      "category": "Stationery",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+     {
+      "timestamp": "01:51",
+      "name": "Laxmi Parking",
+      "category": "Parking",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+ {
+      "timestamp": "01:52",
+      "name": "General Store",
+      "category": "General Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+       
+      ]
+    },
+
+{
+      "timestamp": "01:55",
+      "name": "Mangal Murti",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+
+{
+      "timestamp": "01:57",
+      "name": "You Decide",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+      
+      ]
+    },
+
+      {
+      "timestamp": "01:58",
+      "name": "Raw1 Outfit",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+      
+      ]
+    },
+      {
+      "timestamp": "01:59",
+      "name": "Unique Store",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+      
+      ]
+    },
+     {
+      "timestamp": "02:00",
+      "name": "Royal Shoes",
+      "category": "Shoe Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+      
+      ]
+    },
+    {
+      "timestamp": "02:01",
+      "name": "Lokseva Multipurpose Co-op. Society Ltd",
+      "category": "Multipurpose Co-op.",
+      "address": "Belgaum, Karnataka",
+      "features": [
+      
+      ]
+    },
+    {
+      "timestamp": "02:03",
+      "name": "Sai Baba Green Restaurant",
+      "category": "Restaurant",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+    {
+      "timestamp": "02:09",
+      "name": "Trends SS",
+      "category": "Clothing Store",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+      {
+      "timestamp": "02:11",
+      "name": "Kapiel Cinemas",
+      "category": "Cinema",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Box Office"
+      ]
+    },
+
+      {
+      "timestamp": "02:17",
+      "name": "M.Com Momo's Centre",
+      "category": "Food Stall",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        
+      ]
+    },
+{
+      "timestamp": "02:20",
+      "name": "Shankar Chinese Fast Food",
+      "category": "Restaurant",
+      "address": "Belgaum, Karnataka",
+      "features": [
+        "Veg & Non-Veg Food"
+      ]
+    }
+  ],
+  "analysis_summary": {
+    "total_businesses": 30,
+    "unique_categories": [
+      "Water Purifier",
+      "Pharmacy",
+      "Credit Society",
+      "Accessories",
+      "Optician",
+      "Electronics",
+      "Paint Store",
+      "Financial Services",
+      "Beauty Salon",
+      "Laundry Services",
+      "General Store",
+      "Skin & Nail care",
+      "Plumbing & Sanitaryware",
+      "Restaurant",
+      "Electrical Store",
+      "Furniture Store",
+      "Tea Stall",
+      "Home Decor Store",
+      "Clothing Store",
+      "Dental Clinic",
+        "Electronics",
+        "Construction Company",
+        "Printing",
+          "Music Store",
+        "Parking",
+          "General Store",
+          "Clothing Store",
+        "Shoe Store",
+        "Lighting Store",
+        "Food Stall",
+        "Restaurant"
+    ],
+    "analysis_time": "2024-08-22 10:30:00"
+  }
+}

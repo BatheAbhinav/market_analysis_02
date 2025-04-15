@@ -1,0 +1,12 @@
+google-generativeai
+ipython
+streamlit
+pandas
+matplotlib
+requests
+geopy
+tqdm
+folium
+streamlit-folium
+textblob
+regex

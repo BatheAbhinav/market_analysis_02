@@ -389,7 +389,7 @@ if uploaded_file is not None:
             return SequenceMatcher(None, name1, name2).ratio()
 
     helper = BusinessRegistrationHelper(opencage_api_key)
-    with open('working\output.json', 'r') as f:
+    with open('working/output.json', 'r') as f:
         analyzed_data = json.load(f)
     #data = json.load('working\output.json')
     
@@ -755,7 +755,7 @@ if uploaded_file is not None:
 
     st.title("Market Insights By Gemini 1.5 Flash")
     # Pass the uploaded file directly to the load_json function
-    data = load_json('working\market_analysis_report.json')
+    data = load_json('working/market_analysis_report.json')
     
     # Display market insights
     location = data['market_insights'].get('location', 'Unknown Location')

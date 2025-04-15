@@ -29,9 +29,14 @@ from dotenv import load_dotenv
 
 # Load environment variables from a .env file
 load_dotenv()
-opencage_api_key = os.getenv('OPENCAGE_API_KEY')
-gemini_api_key = os.getenv('GEMINI_API_KEY')
-foursquare_api_keyyy = os.getenv('FOURSQUARE_API_KEY')
+#opencage_api_key = os.getenv('OPENCAGE_API_KEY')
+#gemini_api_key = os.getenv('GEMINI_API_KEY')
+#foursquare_api_keyyy = os.getenv('FOURSQUARE_API_KEY')
+
+
+opencage_api_key = st.secrets["OPENCAGE_API_KEY"]
+gemini_api_key = st.secrets["GEMINI_API_KEY"]
+foursquare_api_keyyy = st.secrets["FOURSQUARE_API_KEY"]
 
 
 google_maps_api_key = opencage_api_key

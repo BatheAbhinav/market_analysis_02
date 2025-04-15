@@ -2,30 +2,12 @@
     "registered_businesses": [
         {
             "input_business": {
-                "timestamp": "00:08",
-                "name": "Helmet & Accessories Shop",
-                "category": "Accessories",
-                "address": "Belgaum, Karnataka",
-                "features": [
-                    "Helmet Collection"
-                ]
-            },
-            "matched_places": [
-                {
-                    "name": "Helmet & Accessories Shop",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
                 "timestamp": "00:02",
                 "name": "Prasad Homoeo Pharmacy",
                 "category": "Pharmacy",
-                "address": "Belgaum, Karnataka",
+                "address": null,
                 "features": [
-                    "Homoeo Pharmacy",
-                    "Allopathic medicines"
+                    "Pharmacy signage visible"
                 ]
             },
             "matched_places": [
@@ -37,14 +19,13 @@
         },
         {
             "input_business": {
-                "timestamp": "00:00",
+                "timestamp": "00:01",
                 "name": "Water Zone RO Purifiers",
-                "category": "Water Purifier",
-                "address": "Belgaum, Karnataka",
+                "category": "Water Purifier Sales & Service",
+                "address": null,
                 "features": [
-                    "Water Purifiers Sales & Service",
-                    "Commercial/Domestic RO Pix",
-                    "Wide Variety of Water Purifiers"
+                    "Water purifier signage visible",
+                    "Various water purifier models displayed"
                 ]
             },
             "matched_places": [
@@ -56,18 +37,51 @@
         },
         {
             "input_business": {
-                "timestamp": "00:07",
-                "name": "Shree Bhakti Mahila Co-op. Credit Society Ltd.",
+                "timestamp": "00:08",
+                "name": "Bhakti Shakti Mahila Credit Society Ltd.",
                 "category": "Credit Society",
-                "address": "H.No.729, Roming Kund Galli, Belgaum, Karnataka",
+                "address": "H.No. 729, Rowning Kund Gall, Belgaum, GH: 0831-2405040, 3260, 544075040",
                 "features": [
-                    "Credit Society",
-                    "Loan Facilities"
+                    "Credit Society signage visible"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Shree Bhakti Mahila Co-op. Credit Society Ltd.",
+                    "name": "Bhakti Shakti Mahila Credit Society Ltd.",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "00:00",
+                "name": "Harmnay Pharmacy",
+                "category": "Pharmacy",
+                "address": null,
+                "features": [
+                    "Pharmacy signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Harmnay Pharmacy",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "00:09",
+                "name": "GSTR Projector & Accessories",
+                "category": "Motorcycle Helmet Accessories",
+                "address": null,
+                "features": [
+                    "Helmet accessories signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "GSTR Projector & Accessories",
                     "distance": 98.34308569312999
                 }
             ]
@@ -75,16 +89,16 @@
         {
             "input_business": {
                 "timestamp": "00:24",
-                "name": "Asian Paints",
-                "category": "Paint Store",
-                "address": "Belgaum, Karnataka",
+                "name": "OPUS Paints",
+                "category": "Paints",
+                "address": null,
                 "features": [
-                    "Hardware/Paints/Construction materials"
+                    "Paint products displayed"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Asian Paints",
+                    "name": "OPUS Paints",
                     "distance": 98.34308569312999
                 }
             ]
@@ -92,17 +106,16 @@
         {
             "input_business": {
                 "timestamp": "00:11",
-                "name": "Look'z Optics",
+                "name": "Look's Optical",
                 "category": "Optician",
-                "address": "Belgaum, Karnataka",
+                "address": null,
                 "features": [
-                    "Latest Frames & Lenses",
-                    "Contact Lens Available Here"
+                    "Eyeglass frames displayed"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Look'z Optics",
+                    "name": "Look's Optical",
                     "distance": 98.34308569312999
                 }
             ]
@@ -110,16 +123,16 @@
         {
             "input_business": {
                 "timestamp": "00:19",
-                "name": "Mahesh Electric & Store",
-                "category": "Electronics",
-                "address": "Belgaum, Karnataka",
+                "name": "Mahesh Electric Store",
+                "category": "Electrical Goods",
+                "address": null,
                 "features": [
-                    "Electric Appliances Sales & Service"
+                    "Electrical items displayed"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Mahesh Electric & Store",
+                    "name": "Mahesh Electric Store",
                     "distance": 98.34308569312999
                 }
             ]
@@ -127,28 +140,29 @@
         {
             "input_business": {
                 "timestamp": "00:26",
-                "name": "HDB Financial Services",
+                "name": "HDFC Financial Services",
                 "category": "Financial Services",
-                "address": "Belgaum, Karnataka",
+                "address": null,
                 "features": [
-                    "Gold Loan"
+                    "Gold Loan signage",
+                    "Bank signage"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "HDB Financial Services",
+                    "name": "HDFC Financial Services",
                     "distance": 98.34308569312999
                 }
             ]
         },
         {
             "input_business": {
-                "timestamp": "00:29",
+                "timestamp": "00:30",
                 "name": "Look'z",
                 "category": "Beauty Salon",
-                "address": "Belgaum, Karnataka",
+                "address": null,
                 "features": [
-                    "Hair & Nail Services"
+                    "Beauty salon signage visible"
                 ]
             },
             "matched_places": [
@@ -160,27 +174,12 @@
         },
         {
             "input_business": {
-                "timestamp": "00:34",
-                "name": "I-ongo",
-                "category": "General Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "I-ongo",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
                 "timestamp": "00:31",
                 "name": "Bharat Laundry & Dry Cleaners",
-                "category": "Laundry Services",
-                "address": "Belgaum, Karnataka",
+                "category": "Laundry & Dry Cleaners",
+                "address": null,
                 "features": [
-                    "Dry Cleaning"
+                    "Laundry and dry cleaning services signage visible"
                 ]
             },
             "matched_places": [
@@ -192,17 +191,34 @@
         },
         {
             "input_business": {
-                "timestamp": "00:35",
-                "name": "Re-derm",
-                "category": "Skin & Nail care",
-                "address": "Belgaum, Karnataka",
+                "timestamp": "00:32",
+                "name": "I-ONGO",
+                "category": "Tailor Shop",
+                "address": null,
                 "features": [
-                    "Skin & Nail Services"
+                    "Tailor shop signage visible"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Re-derm",
+                    "name": "I-ONGO",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "00:35",
+                "name": "Reederm",
+                "category": "Skincare Clinic",
+                "address": null,
+                "features": [
+                    "Skincare clinic signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Reederm",
                     "distance": 98.34308569312999
                 }
             ]
@@ -211,10 +227,10 @@
             "input_business": {
                 "timestamp": "00:36",
                 "name": "Sagar Ceramics",
-                "category": "Plumbing & Sanitaryware",
-                "address": "Belgaum, Karnataka",
+                "category": "Sanitaryware, Tiles & Plumbing",
+                "address": null,
                 "features": [
-                    "Tiles, Plumbing, Sanitaryware"
+                    "Sanitary ware and plumbing items displayed"
                 ]
             },
             "matched_places": [
@@ -226,85 +242,68 @@
         },
         {
             "input_business": {
-                "timestamp": "01:00",
-                "name": "Hotel Athi",
-                "category": "Restaurant",
-                "address": "Belgaum, Karnataka",
-                "features": [
-                    "Veg & Non-Veg Restaurant"
-                ]
-            },
-            "matched_places": [
-                {
-                    "name": "Hotel Athi",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:02",
-                "name": "Future Electrical",
-                "category": "Electrical Store",
-                "address": "Belgaum, Karnataka",
-                "features": [
-                    "Electrical Appliances Sales"
-                ]
-            },
-            "matched_places": [
-                {
-                    "name": "Future Electrical",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
                 "timestamp": "01:03",
-                "name": "Poonam Plaza",
+                "name": "BPL",
+                "category": "Electrical Goods",
+                "address": null,
+                "features": [
+                    "Electrical appliances displayed"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "BPL",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:00",
+                "name": "Hotel Anithi Veg & Non Veg Restaurant",
+                "category": "Restaurant",
+                "address": null,
+                "features": [
+                    "Restaurant signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Hotel Anithi Veg & Non Veg Restaurant",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:09",
+                "name": "LED Furniture Works",
                 "category": "Furniture Store",
-                "address": "Belgaum, Karnataka",
+                "address": null,
                 "features": [
-                    "Furniture Sales",
-                    "Poonam Furniture"
+                    "LED furniture displayed"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Poonam Plaza",
+                    "name": "LED Furniture Works",
                     "distance": 98.34308569312999
                 }
             ]
         },
         {
             "input_business": {
-                "timestamp": "01:13",
-                "name": "V Decor",
-                "category": "Home Decor Store",
-                "address": "Belgaum, Karnataka",
+                "timestamp": "01:12",
+                "name": "Shri Sai Optical",
+                "category": "Optician",
+                "address": null,
                 "features": [
-                    "Curtains/Drapes",
-                    "Home Decor Items"
+                    "Eyeglass frames displayed"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "V Decor",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:11",
-                "name": "Sai Tea Stall",
-                "category": "Tea Stall",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Sai Tea Stall",
+                    "name": "Shri Sai Optical",
                     "distance": 98.34308569312999
                 }
             ]
@@ -314,9 +313,9 @@
                 "timestamp": "01:15",
                 "name": "Mafia Boutique",
                 "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
+                "address": null,
                 "features": [
-                    "Mens & Womens Wear"
+                    "Mens Clothing displayed"
                 ]
             },
             "matched_places": [
@@ -328,11 +327,30 @@
         },
         {
             "input_business": {
-                "timestamp": "01:17",
+                "timestamp": "01:12",
+                "name": "V Decor",
+                "category": "Interior Design",
+                "address": null,
+                "features": [
+                    "Interior design signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "V Decor",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:16",
                 "name": "Care Dental Clinic",
                 "category": "Dental Clinic",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "address": null,
+                "features": [
+                    "Dental clinic signage visible"
+                ]
             },
             "matched_places": [
                 {
@@ -344,16 +362,16 @@
         {
             "input_business": {
                 "timestamp": "01:19",
-                "name": "Haier, Samsung, Sony",
-                "category": "Electronics",
-                "address": "Belgaum, Karnataka",
+                "name": "Haier Samsung Sony Electronics",
+                "category": "Electronics Store",
+                "address": null,
                 "features": [
-                    "Electronics Sales"
+                    "Electronics signage visible"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Haier, Samsung, Sony",
+                    "name": "Haier Samsung Sony Electronics",
                     "distance": 98.34308569312999
                 }
             ]
@@ -361,57 +379,46 @@
         {
             "input_business": {
                 "timestamp": "01:20",
-                "name": "Shivaya's Kitchen",
-                "category": "Restaurant",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Shivaya's Kitchen",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:21",
-                "name": "Shivsudha Construction",
-                "category": "Construction Company",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Shivsudha Construction",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:22",
-                "name": "Nettic",
-                "category": "Pest Control",
-                "address": "Belgaum, Karnataka",
+                "name": "Divyansh Traders",
+                "category": "Grocery & Supplies",
+                "address": null,
                 "features": [
-                    "Pest Control Services"
+                    "Grocery and supplies signage visible"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Nettic",
+                    "name": "Divyansh Traders",
                     "distance": 98.34308569312999
                 }
             ]
         },
         {
             "input_business": {
-                "timestamp": "01:27",
+                "timestamp": "01:25",
+                "name": "Jos's Children's Clinic",
+                "category": "Pediatric Clinic",
+                "address": null,
+                "features": [
+                    "Pediatric clinic signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Jos's Children's Clinic",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:26",
                 "name": "Balaji Enterprises",
                 "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "address": null,
+                "features": [
+                    "Clothing store signage visible"
+                ]
             },
             "matched_places": [
                 {
@@ -422,60 +429,68 @@
         },
         {
             "input_business": {
-                "timestamp": "01:30",
-                "name": "Digital Banners & Thermal Cutting",
-                "category": "Printing",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "timestamp": "01:31",
+                "name": "Sai Tea Stall",
+                "category": "Tea Stall",
+                "address": null,
+                "features": [
+                    "Tea Stall signage visible"
+                ]
             },
             "matched_places": [
                 {
-                    "name": "Digital Banners & Thermal Cutting",
+                    "name": "Sai Tea Stall",
                     "distance": 98.34308569312999
                 }
             ]
         },
         {
             "input_business": {
-                "timestamp": "01:32",
-                "name": "Lakshmicones Music House",
-                "category": "Music Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "timestamp": "01:34",
+                "name": "Shivays Kitchen",
+                "category": "Restaurant",
+                "address": null,
+                "features": [
+                    "Restaurant signage visible"
+                ]
             },
             "matched_places": [
                 {
-                    "name": "Lakshmicones Music House",
+                    "name": "Shivays Kitchen",
                     "distance": 98.34308569312999
                 }
             ]
         },
         {
             "input_business": {
-                "timestamp": "01:25",
-                "name": "Josephs Children's Clinic",
-                "category": "Clinic",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "timestamp": "01:36",
+                "name": "Spice of Goa",
+                "category": "Restaurant",
+                "address": null,
+                "features": [
+                    "Seafood and multi cuisine restaurant signage visible"
+                ]
             },
             "matched_places": [
                 {
-                    "name": "Josephs Children's Clinic",
+                    "name": "Spice of Goa",
                     "distance": 98.34308569312999
                 }
             ]
         },
         {
             "input_business": {
-                "timestamp": "01:35",
-                "name": "Raw1 Outfit",
-                "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "timestamp": "01:37",
+                "name": "The Urban Hive Hotel",
+                "category": "Hotel",
+                "address": null,
+                "features": [
+                    "Hotel signage visible"
+                ]
             },
             "matched_places": [
                 {
-                    "name": "Raw1 Outfit",
+                    "name": "The Urban Hive Hotel",
                     "distance": 98.34308569312999
                 }
             ]
@@ -484,10 +499,10 @@
             "input_business": {
                 "timestamp": "01:40",
                 "name": "BATA",
-                "category": "Shoe Store",
-                "address": "Belgaum, Karnataka",
+                "category": "Footwear Store",
+                "address": null,
                 "features": [
-                    "Shoe Store"
+                    "Footwear store signage visible"
                 ]
             },
             "matched_places": [
@@ -500,55 +515,12 @@
         {
             "input_business": {
                 "timestamp": "01:44",
-                "name": "More Lighting Palace",
-                "category": "Lighting Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "More Lighting Palace",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:52",
-                "name": "General Store",
-                "category": "General Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "General Store",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:51",
-                "name": "Laxmi Parking",
-                "category": "Parking",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Laxmi Parking",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:45",
                 "name": "Rubber Stamps",
-                "category": "Stationery",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "category": "Stamps",
+                "address": null,
+                "features": [
+                    "Rubber stamp store signage visible"
+                ]
             },
             "matched_places": [
                 {
@@ -559,11 +531,115 @@
         },
         {
             "input_business": {
+                "timestamp": "01:43",
+                "name": "More Lighting Palace",
+                "category": "Lighting Store",
+                "address": null,
+                "features": [
+                    "Lighting store signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "More Lighting Palace",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:48",
+                "name": "Laxmi Hotel",
+                "category": "Restaurant",
+                "address": null,
+                "features": [
+                    "Restaurant signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Laxmi Hotel",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:50",
+                "name": "Desi Paan Wala",
+                "category": "Paan Stall",
+                "address": null,
+                "features": [
+                    "Paan stall signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Desi Paan Wala",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:52",
+                "name": "Lakshmikone Music House",
+                "category": "Music Store",
+                "address": null,
+                "features": [
+                    "Music store signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Lakshmikone Music House",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
                 "timestamp": "01:55",
+                "name": "Raw Outfit Mens/Kids Showroom",
+                "category": "Clothing Store",
+                "address": null,
+                "features": [
+                    "Clothing store signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Raw Outfit Mens/Kids Showroom",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:58",
+                "name": "Unique Boutique",
+                "category": "Clothing Store",
+                "address": null,
+                "features": [
+                    "Clothing store signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Unique Boutique",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "01:54",
                 "name": "Mangal Murti",
                 "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "address": null,
+                "features": [
+                    "Clothing store signage visible"
+                ]
             },
             "matched_places": [
                 {
@@ -574,41 +650,13 @@
         },
         {
             "input_business": {
-                "timestamp": "01:57",
-                "name": "You Decide",
-                "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "You Decide",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "01:58",
-                "name": "Raw1 Outfit",
-                "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Raw1 Outfit",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "02:00",
+                "timestamp": "01:59",
                 "name": "Royal Shoes",
-                "category": "Shoe Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "category": "Footwear Store",
+                "address": null,
+                "features": [
+                    "Footwear store signage visible"
+                ]
             },
             "matched_places": [
                 {
@@ -619,60 +667,68 @@
         },
         {
             "input_business": {
-                "timestamp": "01:59",
-                "name": "Unique Store",
-                "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Unique Store",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "02:01",
-                "name": "Lokseva Multipurpose Co-op. Society Ltd",
-                "category": "Multipurpose Co-op.",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Lokseva Multipurpose Co-op. Society Ltd",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "02:09",
-                "name": "Trends SS",
-                "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            "matched_places": [
-                {
-                    "name": "Trends SS",
-                    "distance": 98.34308569312999
-                }
-            ]
-        },
-        {
-            "input_business": {
-                "timestamp": "02:03",
-                "name": "Sai Baba Green Restaurant",
+                "timestamp": "02:02",
+                "name": "Sai Baba Restaurant",
                 "category": "Restaurant",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "address": null,
+                "features": [
+                    "Restaurant signage visible"
+                ]
             },
             "matched_places": [
                 {
-                    "name": "Sai Baba Green Restaurant",
+                    "name": "Sai Baba Restaurant",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "02:00",
+                "name": "Lokseva Multipurpose Co-op. Society Ltd.",
+                "category": "Cooperative Society",
+                "address": null,
+                "features": [
+                    "Cooperative society signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Lokseva Multipurpose Co-op. Society Ltd.",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "02:06",
+                "name": "Trends on first floor",
+                "category": "Clothing Store",
+                "address": null,
+                "features": [
+                    "Clothing store signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Trends on first floor",
+                    "distance": 98.34308569312999
+                }
+            ]
+        },
+        {
+            "input_business": {
+                "timestamp": "02:10",
+                "name": "Kapel Cinemas Box Office",
+                "category": "Cinema",
+                "address": null,
+                "features": [
+                    "Cinema box office signage visible"
+                ]
+            },
+            "matched_places": [
+                {
+                    "name": "Kapel Cinemas Box Office",
                     "distance": 98.34308569312999
                 }
             ]
@@ -682,8 +738,10 @@
                 "timestamp": "02:17",
                 "name": "M.Com Momo's Centre",
                 "category": "Food Stall",
-                "address": "Belgaum, Karnataka",
-                "features": []
+                "address": null,
+                "features": [
+                    "Food stall signage visible"
+                ]
             },
             "matched_places": [
                 {
@@ -694,63 +752,46 @@
         },
         {
             "input_business": {
-                "timestamp": "02:11",
-                "name": "Kapiel Cinemas",
-                "category": "Cinema",
-                "address": "Belgaum, Karnataka",
+                "timestamp": "02:15",
+                "name": "Easybuy",
+                "category": "Clothing Store",
+                "address": null,
                 "features": [
-                    "Box Office"
+                    "Clothing store signage visible"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Kapiel Cinemas",
+                    "name": "Easybuy",
                     "distance": 98.34308569312999
                 }
             ]
         },
         {
             "input_business": {
-                "timestamp": "02:20",
-                "name": "Shankar Chinese Fast Food",
-                "category": "Restaurant",
-                "address": "Belgaum, Karnataka",
+                "timestamp": "02:19",
+                "name": "Shankar Veg & Non Veg Fast Food",
+                "category": "Fast Food Restaurant",
+                "address": null,
                 "features": [
-                    "Veg & Non-Veg Food"
+                    "Fast food restaurant signage visible"
                 ]
             },
             "matched_places": [
                 {
-                    "name": "Shankar Chinese Fast Food",
+                    "name": "Shankar Veg & Non Veg Fast Food",
                     "distance": 98.34308569312999
                 }
             ]
         }
     ],
     "unregistered_businesses": [],
-    "potential_duplicates": [
-        [
-            {
-                "timestamp": "01:35",
-                "name": "Raw1 Outfit",
-                "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            },
-            {
-                "timestamp": "01:58",
-                "name": "Raw1 Outfit",
-                "category": "Clothing Store",
-                "address": "Belgaum, Karnataka",
-                "features": []
-            }
-        ]
-    ],
+    "potential_duplicates": [],
     "summary": {
-        "total_analyzed": 45,
-        "registered_count": 45,
+        "total_analyzed": 46,
+        "registered_count": 46,
         "unregistered_count": 0,
-        "duplicate_groups_count": 1,
+        "duplicate_groups_count": 0,
         "area_address": "Ramling Khind RdRaviwar Peth, Belagavi, Karnataka 590001",
         "search_radius_meters": 2000
     }

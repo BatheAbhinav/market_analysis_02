@@ -25,8 +25,17 @@ from folium import Icon
 from streamlit_folium import st_folium
 from textblob import TextBlob
 
-google_maps_api_key = '7a5e2c08b15848f4ab7abca083e9b732' #OpenCage Api
-genai.configure(api_key='AIzaSyBovJ8q8zWYX-tu1aCBXFsea-CtSa-Ra4M') #Gemini
+from dotenv import load_dotenv
+
+# Load environment variables from a .env file
+load_dotenv()
+opencage_api_key = os.getenv('OPENCAGE_API_KEY')
+gemini_api_key = os.getenv('GEMINI_API_KEY')
+foursquare_api_keyyy = os.getenv('FOURSQUARE_API_KEY')
+
+
+google_maps_api_key = opencage_api_key
+genai.configure(api_key=gemini_api_key)
 
 #part-1 street analysis
 
@@ -561,7 +570,7 @@ if uploaded_file is not None:
             """Fetch competitor data using Foursquare API"""
             self.logger.info(f"Fetching {place_type} competitors within {radius}m radius")
 
-            foursquare_api_key = "fsq3XwkcsrD0oFt/MWy6+zmw0zc1MireOJ4zmCbXP+BpXe0="
+            foursquare_api_key = foursquare_api_keyyy
             search_url = "https://api.foursquare.com/v3/places/search"
 
             headers = {

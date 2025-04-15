@@ -388,7 +388,7 @@ if uploaded_file is not None:
             """
             return SequenceMatcher(None, name1, name2).ratio()
 
-    helper = BusinessRegistrationHelper('7a5e2c08b15848f4ab7abca083e9b732')
+    helper = BusinessRegistrationHelper(opencage_api_key)
     with open('working\output.json', 'r') as f:
         analyzed_data = json.load(f)
     #data = json.load('working\output.json')

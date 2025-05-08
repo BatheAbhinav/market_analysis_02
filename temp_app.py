@@ -165,7 +165,7 @@ if uploaded_file is not None:
     fixer = JsonFix()
     fixed_json = fixer.fix(response_cleaned)
     
-    data = json.loads(response_cleaned)
+    data = json.loads(fixed_json)
 
     #data = process_part1(temp_video_path)
     display_businesses(data)

@@ -15,7 +15,7 @@ from typing import Dict, List
 from datetime import datetime
 from geopy.distance import geodesic
 import re
-
+from json_fix import JsonFix
 from difflib import SequenceMatcher
 import concurrent.futures
 from tqdm import tqdm
@@ -162,6 +162,9 @@ if uploaded_file is not None:
     with open(output_path, "w") as json_file:
         json_file.write(response_cleaned)
 
+    fixer = JsonFix()
+    fixed_json = fixer.fix(response_cleaned)
+    
     data = json.loads(response_cleaned)
 
     #data = process_part1(temp_video_path)

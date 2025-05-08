@@ -10,4 +10,4 @@ folium
 streamlit-folium
 textblob
 regex
-json-fix
+jsonfix

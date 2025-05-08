@@ -159,11 +159,11 @@ if uploaded_file is not None:
         with open(output_path, "w") as json_file:
             json.dump({}, json_file)
 
-    with open(output_path, "w") as json_file:
-        json_file.write(response_cleaned)
-
     fixed_json = repair_json(response_cleaned)    
     data = json.loads(fixed_json)
+
+    with open(output_path, "w") as json_file:
+        json_file.write(response_cleaned)
 
     display_businesses(data)
     display_category_distribution(data)
@@ -389,8 +389,9 @@ if uploaded_file is not None:
             return SequenceMatcher(None, name1, name2).ratio()
 
     helper = BusinessRegistrationHelper(opencage_api_key)
-    with open('working/output.json', 'r') as f:
-        analyzed_data = json.load(f)
+    with open('working/output.json', 'r') as x:
+        f = repair_json(x.read())
+        analyzed_data = json.loads(f)
     #data = json.load('working\output.json')
     
     area_address = "Ramling Khind RdRaviwar Peth, Belagavi, Karnataka 590001"

@@ -15,7 +15,7 @@ from typing import Dict, List
 from datetime import datetime
 from geopy.distance import geodesic
 import re
-from jsonfix import JsonFix
+from json_fix import JsonFix
 from difflib import SequenceMatcher
 import concurrent.futures
 from tqdm import tqdm

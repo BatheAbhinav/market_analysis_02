@@ -15,7 +15,7 @@ from typing import Dict, List
 from datetime import datetime
 from geopy.distance import geodesic
 import re
-from json_fix import fixer
+from json_repair import repair_json
 from difflib import SequenceMatcher
 import concurrent.futures
 from tqdm import tqdm
@@ -162,7 +162,7 @@ if uploaded_file is not None:
     with open(output_path, "w") as json_file:
         json_file.write(response_cleaned)
 
-    fixed_json = fixer(response_cleaned)    
+    fixed_json = repair_json(response_cleaned)    
     data = json.loads(fixed_json)
 
     display_businesses(data)
